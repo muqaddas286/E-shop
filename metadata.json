@@ -1,0 +1,6 @@
+{
+  "name": "E-Shop",
+  "description": "A premium, fully interactive Native Android eCommerce application featuring live search, custom category filters, real-time local cart persistence, flash sale countdowns, beautiful dark mode toggle, newsletter subscription, and a high-fidelity visual design built with Jetpack Compose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
